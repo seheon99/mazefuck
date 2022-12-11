@@ -24,7 +24,7 @@ The map must be a rectangle shape that includes the wall, the start point, the e
 `mazefuck.py` is a Python script that execute the Mazefuck code. The following command executes the code in `input.mf`.
 
 ```sh
-$ ./mazefuck < input.mf
+$ ./mazefuck.py < input.mf
 ```
 
 It waits for empty input to execute. You can input some characters after the code is executed.
